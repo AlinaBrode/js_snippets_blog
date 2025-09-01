@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/swap_abt_table/',
+  base: '/js_snippets_blog/swap_abt_table/',
   plugins: [react()],
 })
