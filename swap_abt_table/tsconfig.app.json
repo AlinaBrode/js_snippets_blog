@@ -1,4 +1,4 @@
-{../swap_abt_table/node_modules/.tmp/tsconfig.app.tsbuildinfo../swap_abt_table/src
+{
   "compilerOptions": {
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
     "target": "ES2022",
